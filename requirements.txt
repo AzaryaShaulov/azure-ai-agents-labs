@@ -9,7 +9,7 @@ azure-ai-inference==1.0.0b9 #previously 1.0.0b8
 azure-ai-projects==1.0.0b11 #previously 1.0.0b5
 azure-core==1.32.0
 azure-identity==1.19.0
-certifi==2024.12.14
+certifi==2026.10.19
 cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.1
